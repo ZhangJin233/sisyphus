@@ -30,7 +30,7 @@ dependencies {
         api("io.kubernetes:client-java:9.0.2")
         api("io.netty:netty-tcnative-boringssl-static:2.0.34.Final")
         api("org.apache.maven.wagon:wagon-http:3.4.1")
-        api("org.junit.jupiter:junit-jupiter:5.6.2")
+        api("org.junit.jupiter:junit-jupiter:5.7.1")
         api("io.kubernetes:client-java:12.0.0")
         api("io.netty:netty-tcnative-boringssl-static:2.0.36.Final")
         api("org.apache.maven.wagon:wagon-http:3.4.3")
